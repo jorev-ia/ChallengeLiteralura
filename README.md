@@ -1,5 +1,9 @@
 <h1 align="center"> 📚 Challenge Literalura 📚 </h1>
 
+<p align="center"> 
+<img width="410" height="410" alt="Badge-Literalura" src="https://github.com/user-attachments/assets/acd14e85-0a78-4069-ab85-9a4f5db60fb3" />
+</p>
+
 ## :hammer:Funcionalidades del proyecto
 
 - Este proyecto es de consola, y podremos realizar busquedas de libero por titulo que esta conectada a un API, y estas busquedas quedan guardas en una base de datos que luego podemos acceder y realizar busquedas mas detalladas.
